@@ -79,6 +79,7 @@
 0. [Web 前端开发学习资料整理](http://blog.csdn.net/happyduoduo1/article/details/51865661)
 0. [ 前端资源汇集（个人觉得不错的学习资源收集）](http://blog.csdn.net/u014516981/article/details/51542388)
 0. [ 前端学习资源](http://blog.csdn.net/yongxiaokang1/article/details/43762593)
+0. [Web前端开发工具和框架](http://blog.csdn.net/feiyu84/article/details/40752685)
 ## 团队（控制在16个以内） 
 
 大部分团队博客，都有拼凑感，质量良莠不齐，所以还是推荐大家关注个人博客。
