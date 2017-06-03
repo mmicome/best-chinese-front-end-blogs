@@ -76,8 +76,8 @@
     + [《为故障和失败做设计》](http://icodeit.org/2016/05/design-for-failure/)
     + [《技术的执念》](http://icodeit.org/2016/02/pitfall-of-technology/)
 0. [梦想天空](http://www.cnblogs.com/lhb25/)
-
-## 团队（控制在16个以内）
+0. [Web 前端开发学习资料整理](http://blog.csdn.net/happyduoduo1/article/details/51865661)
+## 团队（控制在16个以内） 
 
 大部分团队博客，都有拼凑感，质量良莠不齐，所以还是推荐大家关注个人博客。
 
