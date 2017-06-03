@@ -81,6 +81,7 @@
 0. [ 前端学习资源](http://blog.csdn.net/yongxiaokang1/article/details/43762593)
 0. [Web前端开发工具和框架](http://blog.csdn.net/feiyu84/article/details/40752685)
 0. [14个优秀 JS 前端框架、库、工具及其使用时机](http://www.oschina.net/translate/top-javascript-frameworks-libraries-tools-and-when)
+0. [陈希章@优化网站设计](http://www.cnblogs.com/chenxizhang/archive/2013/05/05/3060804.html)
 ## 团队（控制在16个以内） 
 
 大部分团队博客，都有拼凑感，质量良莠不齐，所以还是推荐大家关注个人博客。
