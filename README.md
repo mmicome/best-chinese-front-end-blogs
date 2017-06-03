@@ -76,7 +76,8 @@
     + [《为故障和失败做设计》](http://icodeit.org/2016/05/design-for-failure/)
     + [《技术的执念》](http://icodeit.org/2016/02/pitfall-of-technology/)
 
-    
+0. [梦想天空](http://www.cnblogs.com/lhb25/)
+    + [《前端资源，案例》](http://www.cnblogs.com/lhb25/p/10-useful-web-effect.html)
 
 ## 团队（控制在16个以内）
 
