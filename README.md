@@ -75,6 +75,9 @@
 0. [邱俊涛](http://icodeit.org/blog/archives/)（ThoughtWorks）
     + [《为故障和失败做设计》](http://icodeit.org/2016/05/design-for-failure/)
     + [《技术的执念》](http://icodeit.org/2016/02/pitfall-of-technology/)
+0. [王福朋 - 博客园](http://www.cnblogs.com/wangfupeng1988/)
+    + [《深入理解javascript原型和闭包系列》](http://www.cnblogs.com/wangfupeng1988/p/4001284.html)
+    + [《css知多少（12）——目录》](http://www.cnblogs.com/wangfupeng1988/p/4325007.html)
 0. [梦想天空](http://www.cnblogs.com/lhb25/)
 0. [Web 前端开发学习资料整理](http://blog.csdn.net/happyduoduo1/article/details/51865661)
 0. [ 前端资源汇集（个人觉得不错的学习资源收集）](http://blog.csdn.net/u014516981/article/details/51542388)
