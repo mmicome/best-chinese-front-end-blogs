@@ -87,7 +87,11 @@
 0. [陈希章@优化网站设计](http://www.cnblogs.com/chenxizhang/archive/2013/05/05/3060804.html)
 0. [前端开发博客](http://caibaojian.com/)
 0. [极限前端](http://jixianqianduan.com/)
-0. [前端知识体系](http://www.cnblogs.com/sb19871023/p/3894452.html)
+0. [前端知识体系](http://www.cnblogs.com/sb19871023/p/3894452.html)   
+0. [Hey@feelcss](http://www.feelcss.com/three-pure-css-to-achieve-the-triangle-method.html)
+    + [三种纯CSS实现三角形的方法](http://www.feelcss.com/three-pure-css-to-achieve-the-triangle-method.html)
+
+
 ## 团队（控制在16个以内） 
 
 大部分团队博客，都有拼凑感，质量良莠不齐，所以还是推荐大家关注个人博客。
